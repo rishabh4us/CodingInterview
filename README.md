@@ -1,4 +1,4 @@
 CodingInterview
 ===============
 
-Java Coding Interview
+Java Coding Interview Exercises
